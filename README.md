@@ -26,7 +26,7 @@ install.packages(c("udpipe", "ggplot2", "dplyr", "wordcloud", "RColorBrewer"))
 python start.py
 
 ## Структура проекта
-
+```
 project/
 ├── start.py                 # Точка входа
 ├── scripts/
@@ -41,7 +41,7 @@ project/
 │   └── user_manual.pdf      # Инструкция
 ├── requirements.txt
 └── README.md
-
+```
 ## Меню программы
 
 1. Парсинг новостей (Python)
